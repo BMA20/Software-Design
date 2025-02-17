@@ -1,0 +1,2 @@
+I have created a new git hub a new repository and also creating and  ensuring that the repository has to the files student-info.txt: This file should contain your student ID and name, report.md: This file should contain a brief report on what you have done in this assignment and
+index.html: This file should contain an <h1> tag with the text Hello world, I am <student-id> where <student-id> is your actual Wits student number. 
